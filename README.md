@@ -18,7 +18,7 @@ I divided the architecture in 4 principal groups:
 - rest
   - Rest layer application.
 
-The layer cannot access layers there is above here, but layers of top level
+The layer cannot access layers that is above here, but layers of top level
 can access layers of bottom level.
 
 Domain and commons are layers on the same level.
